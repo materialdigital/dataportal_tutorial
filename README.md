@@ -47,7 +47,7 @@ Wenn Sie Fragen oder Probleme haben, besuchen Sie das [Support-Forum](https://ex
 Ersetzen Sie die Platzhalter-Links und Texte durch die spezifischen Informationen Ihrer CKAN-Instanz.
 
 # Marian's neues Zeug
-Neu
+Neu via branch `marian_dev`
 
 # Alex^s neues Zeug
 neu
