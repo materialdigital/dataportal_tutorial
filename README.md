@@ -118,12 +118,12 @@ Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
 
 ## User Stories
 
-US1:
+### US1:
 
 > As a visiting user, I want to explore the data by searching and filtering the available data by keywords, categorys, compartibility and content.
 
 
-## Landing Page DataPortal
+#### Landing Page DataPortal
  After entering the [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/) you reach the landing page of the DataPortal. 
 
  The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal.
@@ -139,36 +139,36 @@ US1:
 Clicking on the respective field takes you directly to the results of the database.
 The overview functionalities and keywords can be used to “browse” around the website and get familiar with the published datasets.
 
-## Functionality - Datasets/Resources
+#### Functionality - Datasets/Resources
 When clicking on area **datasets or resources** all available datasets are displayed. The tags and filter options in the sidebar help narrow down the desired data.
 ![Dataset](./DataPotal_Dataset_1.png)
 
 The filters are built on top of each other. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
 ![Filter](./DataPotal_Dataset_Filter.png)
 
-## Organizations
+#### Organizations
 This function can be used when all the datasets provided by a certain organization want to be viewed. There is an integrated search field to look up organizations. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
 ![Organizations](./DataPotal_Organizations.png)
 
-## Keywords
+#### Keywords
 The keywords displayed are the most commonly tags associated with the datasets uploaded. 
 By clicking on the individual words, one is immediately directed to the search area.
 ![Keywords](./DataPotal_keywords.png)
 
-## Search Field
+#### Search Field
 When having a specific topic in mind that wants to be explored – the search functionality is the best option.
 When using the search functionality, the following points must be observed: 
  - There is no translation available, so only the key word used in the language entered can be found. We advise you to perform the search in English
 ![Search Func](./DataPotal_Search%20Funtionality%20.png)
 
-## Search Results
+#### Search Results
 For the shown search term, 41 datasets are found
 With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be further narrowed down.
 ![Dataset](./DataPotal_Dataset_Sidebar%20.png)
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
-## Details of Datasets
+#### Details of Datasets
 The picture below shows the details for the dataset. 
 Information displayed are:
     - organization which published the data
@@ -190,7 +190,7 @@ The formats offered per dataset can already be seen in the search results. And p
 
 ![Result search](./DataPotal_Dataset_Result.png)
 
-## Navigation bar
+#### Navigation bar
 Clicking on the Material Digital Logo takes you back to the landing page.
 ![back to landing page](./DataPortal_back_to_landing_page.png)
 Clicking on Datasets, Organizations takes you to the same result as clicking on the respective buttons on the landing page.
@@ -201,7 +201,7 @@ You can use CKAN Groups to create and manage collections of datasets. This could
 ![Groups](./DataPotal_Groups.png)
 
 
-**QUESTIONS:**
+#### QUESTIONS
 - Initial: Which practical question needs to be answered. 
 - Landing Page des DataPortals
     - Discovery by search request in the "search"-field 
@@ -218,14 +218,14 @@ You can use CKAN Groups to create and manage collections of datasets. This could
 
 
 
-US2:
+### US2:
 
 > As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
 
 - Landing Page des DataPortals
     - Discovery bei Keywords anklicken
 
-US3:
+### US3:
 
 > As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
 
