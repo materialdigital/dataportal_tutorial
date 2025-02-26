@@ -1,4 +1,4 @@
-# Entwurf des Schulungsmaterial (MaterialDigital DataPortal tutorial V0.1) - Stand - 21.02.2025
+# Entwurf des Schulungsmaterial (MaterialDigital DataPortal tutorial V0.1) - Stand - 25.02.2025
 
 ## [MaterialDigital DataPortal](https://kit-pmd-4.ydns.eu/) - dev Version
 
@@ -124,6 +124,87 @@ US1:
 ```{theorem, label, name="US1"}
 As a visiting user, I want to explore the data by searching and filtering the available data by keywords, categorys, compartibility and content.
 ```
+
+
+## Landing Page DataPortal
+ After entering the [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/) you reach the landing page of the DataPortal. 
+
+ The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal.
+ ![Landingpage](DataPotal_Landing%20Page.png)
+
+ On the landing page the following information can be found: 
+    - Access to Database search
+    - Current Number of Datasets (158) published
+    - Current Number of Resources (488) to the published Datasets
+    - Current Number of Organizations (3) which have provided Datasets to the DataPortal
+    - Most common key words in relation to the associated Datasets
+
+Clicking on the respective field takes you directly to the results of the database.
+The overview functionalities and keywords can be used to “browse” around the website and get familiar with the published datasets.
+
+## Functionality - Datasets/Resources
+When clicking on area **datasets or resources** all available datasets are displayed. The tags and filter options in the sidebar help narrow down the desired data.
+![Dataset](./DataPotal_Dataset_1.png)
+
+The filters are built on top of each other. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
+![Filter](./DataPotal_Dataset_Filter.png)
+
+## Organizations
+This function can be used when all the datasets provided by a certain organization want to be viewed. There is an integrated search field to look up organizations. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
+![Organizations](./DataPotal_Organizations.png)
+
+## Keywords
+The keywords displayed are the most commonly tags associated with the datasets uploaded. 
+By clicking on the individual words, one is immediately directed to the search area.
+![Keywords](./DataPotal_keywords.png)
+
+## Search Field
+When having a specific topic in mind that wants to be explored – the search functionality is the best option.
+When using the search functionality, the following points must be observed: 
+ - There is no translation available, so only the key word used in the language entered can be found. We advise you to perform the search in English
+![Search Func](./DataPotal_Search%20Funtionality%20.png)
+
+## Search Results
+For the shown search term, 41 datasets are found
+With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be further narrowed down.
+![Dataset](./DataPotal_Dataset_Sidebar%20.png)
+
+By clicking on the desired dataset in the main display area further information about the dataset will be provided.
+
+## Details of Datasets
+The picture below shows the details for the dataset. 
+Information displayed are:
+    - organization which published the data
+    - the creator
+    - the publisher
+    - short description about the dataset
+    - any many more details if provided during the upload
+
+By clicking on **Explore** either more information about the dataset can be found or **Go to resource** directly starts the download of the dataset in the format stated (in the case shown as .lis file) 
+Please note: the **Follow function** only only be used by logged on users
+In the case below only one type of format is provided:
+
+![Details](./DataPotal_Dataset_Details.png)
+
+Whereas the dataset shown below offers 5 different formats:
+![Details 2](./DataPotal_Dataset_Details2.png)
+
+The formats offered per dataset can already be seen in the search results. And pre-selected with the help of the sidebar menu.
+
+![Result search](./DataPotal_Dataset_Result.png)
+
+## Navigation bar
+Clicking on the Material Digital Logo takes you back to the landing page.
+![back to landing page](./DataPortal_back_to_landing_page.png)
+Clicking on Datasets, Organizations takes you to the same result as clicking on the respective buttons on the landing page.
+
+The link **Groups** takes you to so far established groups.
+You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets.
+
+![Groups](./DataPotal_Groups.png)
+
+
+**QUESTIONS:**
 - Initial: Which practical question needs to be answered. 
 - Landing Page des DataPortals
     - Discovery by search request in the "search"-field 
