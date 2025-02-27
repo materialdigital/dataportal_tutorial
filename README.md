@@ -137,6 +137,8 @@ You can use the free text search bar for an unfiltered search of our datasets.
 If you have already a specific topic in mind that you would like to explore, just use the free text search bar. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match.
 ![Search Func](./images/DataPotal_Search%20Funtionality%20.png)
 
+#### Pre-filtered search
+
 Our DataPortal also offers you a pre-filtered search. Simply click on the following areas to start a search:
 
 - **Datasets** - This search will list all published datasets
@@ -147,27 +149,26 @@ Our DataPortal also offers you a pre-filtered search. Simply click on the follow
 
 By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published datasets and resources.
 
-#### Functionality - Datasets
+#### Filter - Datasets
 Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar.
 ![Dataset](./images/DataPotal_Dataset_1.png)
 
-#### Functionality - Resources
+#### Filter - Resources
 Clicking on **resources** will display all the individual files that are part of the datasets uploaded to the DataPortal.
 
-#### Organizations
+#### Filter - Organizations
 Use this function to discover the datasets provided by a certain organization. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
 ![Organizations](./images/DataPotal_Organizations.png)
 
-#### Keywords
-On the landing page, you will also find the most common keywords/tags related to the available data set. Click on the tag to directly display all results for the corresponding keyword.
+#### Filter - Tags
+On the landing page, you will also find the most common tags related to the available data set. Click on the tag to directly display all results for the corresponding keyword.
 ![Keywords](./images/DataPotal_keywords.png)
 
-#### Search Results
+#### Search Results and adjust filters
 Whether you entered a search term yourself or clicked a tag, all results are displayed in a list. Sorted by the highest match. With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be narrowed down further.
 ![Dataset](./images/DataPotal_Dataset_Sidebar%20.png)
 
-#### Adjust filters
-gradually narrow down the search. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
+Your selected filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
