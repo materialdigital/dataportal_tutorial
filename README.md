@@ -126,7 +126,7 @@ Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
 #### Landing Page DataPortal
 If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
 
-The (Log In) button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
+The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
 
 On the landing page you have different options for searching the datasets of the DataPortal.
