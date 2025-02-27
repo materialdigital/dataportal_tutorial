@@ -151,8 +151,7 @@ On the landing page, you will also find the most common keywords/tags related to
 Clicking on **data sets** or **resources** will display all available data sets. To further narrow your search: use the tags and filter options on the left sidebar.
 ![Dataset](./images/DataPotal_Dataset_1.png)
 
-The filters gradually narrow down the search. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
-![Filter](./images/DataPotal_Dataset_Filter.png)
+The filters gradually narrow down the search. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 #### Organizations
 Use this function to discover the datasets provided by a certain organization. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
