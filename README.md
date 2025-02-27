@@ -126,40 +126,39 @@ Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
 #### Landing Page DataPortal
  After entering the [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/) you reach the landing page of the DataPortal. 
 
- The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal.
+ The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal. If you would like to use the site as a registered user, please go to the following section to find out how to register: Link to sektion.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
 
-On the landing page you have different options for searching our data records.
+On the landing page you have different options for searching our datasets.
 
-You can use the free text search bar for an unfiltered search of our data sets.
+You can use the free text search bar for an unfiltered search of our datasets.
 
 Or you can click on the following areas to start a pre-filtered search:
 
-- Data sets - current number of published data sets
+- **Datasets** - current number of published datasets
   
-- Resources - current number of resources contained in the data sets
+- **Resources** - current number of resources contained in the datasets
   
-- Organizations - current number of organizations which provide the data sets
+- **Organizations** - current number of organizations which provide the datasets
 
-On the landing page, you will also find the most common keywords related to the available data set.
-By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published data sets.
+By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published datasets.
 
+#### Keywords
+On the landing page, you will also find the most common keywords/tags related to the available data set. Click on the tag to directly display all results for the corresponding keyword.
+![Keywords](./images/DataPotal_keywords.png)
 
 #### Functionality - Datasets/Resources
-When clicking on area **datasets or resources** all available datasets are displayed. The tags and filter options in the sidebar help narrow down the desired data.
+Clicking on **data sets** or **resources** will display all available data sets. To further narrow your search: use the tags and filter options on the left sidebar.
 ![Dataset](./images/DataPotal_Dataset_1.png)
 
-The filters are built on top of each other. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
+The filters gradually narrow down the search. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
 ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 #### Organizations
-This function can be used when all the datasets provided by a certain organization want to be viewed. There is an integrated search field to look up organizations. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
+Use this function to discover the datasets provided by a certain organization. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
 ![Organizations](./images/DataPotal_Organizations.png)
 
-#### Keywords
-The keywords displayed are the most commonly tags associated with the datasets uploaded. 
-By clicking on the individual words, one is immediately directed to the search area.
-![Keywords](./images/DataPotal_keywords.png)
+
 
 #### Search Field
 When having a specific topic in mind that wants to be explored – the search functionality is the best option.
