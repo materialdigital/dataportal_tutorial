@@ -129,15 +129,21 @@ Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
  The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
 
- On the landing page the following information can be found: 
-    - Access to Database search
-    - Current Number of Datasets (158) published
-    - Current Number of Resources (488) to the published Datasets
-    - Current Number of Organizations (3) which have provided Datasets to the DataPortal
-    - Most common key words in relation to the associated Datasets
+On the landing page you have different options for searching our data records.
 
-Clicking on the respective field takes you directly to the results of the database.
-The overview functionalities and keywords can be used to “browse” around the website and get familiar with the published datasets.
+You can use the free text search bar for an unfiltered search of our data sets.
+
+Or you can click on the following areas to start a pre-filtered search:
+
+- Data sets - current number of published data sets
+  
+- Resources - current number of resources contained in the data sets
+  
+- Organizations - current number of organizations which provide the data sets
+
+On the landing page, you will also find the most common keywords related to the available data set.
+By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published data sets.
+
 
 #### Functionality - Datasets/Resources
 When clicking on area **datasets or resources** all available datasets are displayed. The tags and filter options in the sidebar help narrow down the desired data.
