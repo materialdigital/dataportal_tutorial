@@ -131,10 +131,8 @@ The Log In button in the right-hand corner indicates that you are a visiting use
 
 On the landing page you have different options for searching the datasets of the DataPortal.
 
-You can use the free text search bar for an unfiltered search of our datasets.
-
 #### Free text search bar
-If you have already a specific topic in mind that you would like to explore, just use the free text search bar. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match.
+If you have already a specific topic in mind that you would like to explore, just use the free text search bar. You can use the free text search bar for an unfiltered search of our datasets. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match.
 ![Search Func](./images/DataPotal_Search%20Funtionality%20.png)
 
 #### Pre-filtered search
@@ -168,14 +166,17 @@ On the landing page, you will also find the most common tags related to the avai
 Whether you entered a search term yourself or clicked a tag, all results are displayed in a list. Sorted by the highest match. With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be narrowed down further.
 ![Dataset](./images/DataPotal_Dataset_Sidebar%20.png)
 
+You can now also sort the results displayed by relevance, name or date last edited. <img width="640" alt="filter relevance" src="https://github.com/user-attachments/assets/12c093b7-05c6-4da2-8632-6d8690825f21" />
+
+
 Your selected filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
 #### Details of Datasets
-The picture below shows the details for the dataset. 
+The picture below shows the details of the dataset. 
 Information displayed are:
-    - organization which published the data
+    - organization that published the data
     - the creator
     - the publisher
     - short description about the dataset
