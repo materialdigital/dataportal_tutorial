@@ -168,30 +168,39 @@ Whether you entered a search term yourself or clicked a tag, all results are dis
 
 You can now also sort the results displayed by relevance, name or date last edited. <img width="640" alt="filter relevance" src="https://github.com/user-attachments/assets/12c093b7-05c6-4da2-8632-6d8690825f21" />
 
-
 Your selected filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
 #### Details of Datasets
-The picture below shows the details of the dataset. 
-Information displayed are:
-    - organization that published the data
+The image below shows the details of the dataset. 
+The information shown are:
+
+    - the organization that published the data
     - the creator
     - the publisher
-    - short description about the dataset
-    - any many more details if provided during the upload
+    - a short description about the dataset
+    - any other detail if provided during the upload
+    
+ Click on **Explore** to find more information about the dataset. 
+ Hier muss noch beschrieben werden, dass man Daten und Ressourcen nun schon anschauen kann, ebenso dann die Funktionen danach wie Annotate, Transform etc.
+ Wie sehr wir ins Detail gehen, müssen wir noch überlegen.
+ <img width="914" alt="image" src="https://github.com/user-attachments/assets/1480d8d6-7318-4e90-a625-6db7d8068c3b" />
 
-By clicking on **Explore** either more information about the dataset can be found or **Go to resource** directly starts the download of the dataset in the format stated (in the case shown as .lis file) 
-Please note: the **Follow function** only only be used by logged on users
-In the case below only one type of format is provided:
 
+### US2:
+
+> As a visiting user, I found some interesting datasets and i want to digest/consume them, for further analysis.
+
+If you have found a dataset with resources that interest you, you have the following options. Click on **Explore** to find more information about the dataset. Clicking on **Go to resource** will start the download of the dataset in the given format (shown as a .lis file in the example image).
+
+In the case below, only one type of format is provided:
 ![Details](./images/DataPotal_Dataset_Details.png)
 
 Whereas the dataset shown below offers 5 different formats:
 ![Details 2](./images/DataPotal_Dataset_Details2.png)
 
-The formats offered per dataset can already be seen in the search results. And pre-selected with the help of the sidebar menu.
+The formats available for each dataset can already be seen in the search results. And pre-selected with the help of the sidebar menu.
 
 ![Result search](./images/DataPotal_Dataset_Result.png)
 
@@ -205,6 +214,7 @@ You can use CKAN Groups to create and manage collections of datasets. This could
 
 ![Groups](./images/DataPotal_Groups.png)
 
+Please note: the **Follow function** can only be used by logged in users.
 
 #### QUESTIONS
 - Initial: Which practical question needs to be answered. 
