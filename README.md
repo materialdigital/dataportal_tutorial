@@ -148,7 +148,7 @@ Our DataPortal also offers you a pre-filtered search. Simply click on the follow
 By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published datasets and resources.
 
 #### Filter - Datasets
-Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar.
+Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar. (Unterschied zwischen Datasets und Resources!!)
 ![Dataset](./images/DataPotal_Dataset_1.png)
 
 #### Filter - Resources
