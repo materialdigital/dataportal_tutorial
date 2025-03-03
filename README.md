@@ -132,7 +132,7 @@ The Log In button in the right-hand corner indicates that you are a visiting use
 On the landing page you have different options for searching the datasets of the DataPortal.
 
 #### Free text search bar
-If you have already a specific topic in mind that you would like to explore, just use the free text search bar. You can use the free text search bar for an unfiltered search of our datasets. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match.
+If you have already a specific topic in mind that you would like to explore, just use the free text search bar. You can use the free text search bar for an unfiltered search of our datasets. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match. (Funktion nochmal prüfen!)
 ![Search Func](./images/DataPotal_Search%20Funtionality%20.png)
 
 #### Pre-filtered search
