@@ -264,7 +264,8 @@ By clicking on the button **Explore** further options for the dataset are offere
 
 When you click on more information you are guided to the following page:
 
-![Resources_Details](.images/DataPotal_Resources_Details.png)
+![Resources-Details](.image/DataPortal_Resources_Details.png)
+
 
 You can find three main areas on this page.
 **Area 1** provides additional information for the selected resource.
