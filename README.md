@@ -233,12 +233,68 @@ Please note: the **Follow function** can only be used by logged in users.
 
 
 
-### US2:
+### US2 Extension by Juliane:
 
 > As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
 
 - Landing Page des DataPortals
     - Discovery bei Keywords anklicken
+
+==Hier noch mal auf den Teil in US1 verlinken, in dem die Search Funktionalität beschrieben wird ==
+
+Once you have selected the desired dataset, you will be taken to the following page.
+
+![Dataset_2](./images/DataPotal_Dataset_2.png)
+
+This page offers additional information about the dataset. 
+The information linked to the dataset is the following: 
+-  Main contact person for the dataset
+-  Publishing organization
+- Creator of the dataset
+- Release and modification date
+- Identifier
+- URI
+
+**==Frage ob das Stimmt==**
+This basic information is automatically created during the upload of the dataset. Further information can be provided on a voluntary basis during the upload.
+
+By clicking on the button **Explore** further options for the dataset are offered.
+
+![Explore_1](.images/DataPotal_Explore_1.png)
+
+When you click on more information you are guided to the following page:
+
+![Explore_1](.images/DataPotal_Resources_Details.png)
+
+You can find three main areas on this page.
+**Area 1** provides additional information for the selected resource.
+- last updated
+- Matadata last updated
+- created
+- format
+
+**==Frage ob das Stimmt==**
+Basic information is automatically created during the upload of the dataset. Further information can be provided on a voluntary basis during the upload.
+
+**Area 2** shows you which resource is currently selected. Here you have the option to switch between the different resources associated with to the selected dataset. Currently the resource highlighted in grey is selected. It provided in the CSV format and was created in January 2025. 
+
+![Explore_1](.images/DataPotal_Resources_Details_2.png)
+
+The **third area** of interest can be found on the top of the page. Depending on the format of the resource different buttons are displayed: 
+
+**==HIER BRAUCHE ICH NOCH INFO==**
+- **Annotate:** this allows you to….
+- **Transform:** this takes you here…
+- **Go to resource:** this automatically starts the download of the resource or takes you to a connected GitLab project
+
+![Explore_1](.images/DataPotal_Resources_Details_3.png)
+
+If you do not need additional information about the resources, you can start the download on the initial page of the dataset by clicking on **Explore --> Go to resource**. 
+
+![Explore_1](.images/DataPotal_Explore_2.png)
+
+**==Frage: Müssen wir hier noch einen "rechtlichen Hinweis" geben, was es bedeutet, wenn man jetzt Zugriff auf die Daten hat. Oder ist das den Personen durch betreten der webseite klar?==**
+
 
 ### US3:
 
