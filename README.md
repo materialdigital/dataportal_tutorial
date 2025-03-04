@@ -260,7 +260,7 @@ This basic information is automatically created during the upload of the dataset
 
 By clicking on the button **Explore** further options for the dataset are offered.
 
-![Explore_1](.images/DataPotal_Explore_1.png)
+![Explore_1](.images/DataPortal_Resources_Details.png)
 
 When you click on more information you are guided to the following page:
 
