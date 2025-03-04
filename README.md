@@ -260,11 +260,12 @@ This basic information is automatically created during the upload of the dataset
 
 By clicking on the button **Explore** further options for the dataset are offered.
 
-![Explore_1](.images/DataPortal_Explore_1.png)
+![Explore_1](./images/DataPortal_Explore_1.png)
+
 
 When you click on more information you are guided to the following page:
 
-![Resources-Details](.image/DataPortal_Resources-Details.png)
+![Resources-Details](./image/DataPortal_Resources-Details.png)
 
 
 You can find three main areas on this page.
@@ -279,7 +280,7 @@ Basic information is automatically created during the upload of the dataset. Fur
 
 **Area 2** shows you which resource is currently selected. Here you have the option to switch between the different resources associated with to the selected dataset. Currently the resource highlighted in grey is selected. It provided in the CSV format and was created in January 2025. 
 
-![Details_2](.images/DataPotal_Resources-Details_2.png)
+![Details_2](./images/DataPotal_Resources-Details_2.png)
 
 The **third area** of interest can be found on the top of the page. Depending on the format of the resource different buttons are displayed: 
 
@@ -288,11 +289,11 @@ The **third area** of interest can be found on the top of the page. Depending on
 - **Transform:** this takes you here…
 - **Go to resource:** this automatically starts the download of the resource or takes you to a connected GitLab project
 
-![Details_3](.images/DataPotal_Resources-Details_3.png)
+![Details_3](./images/DataPotal_Resources-Details_3.png)
 
 If you do not need additional information about the resources, you can start the download on the initial page of the dataset by clicking on **Explore --> Go to resource**. 
 
-![Explore_2](.images/DataPotal_Explore_2.png)
+![Explore_2](./images/DataPotal_Explore_2.png)
 
 **==Frage: Müssen wir hier noch einen "rechtlichen Hinweis" geben, was es bedeutet, wenn man jetzt Zugriff auf die Daten hat. Oder ist das den Personen durch betreten der webseite klar?==**
 
