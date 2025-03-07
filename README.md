@@ -172,20 +172,9 @@ Your selected filters can be deselected by clicking on the “x”. ![Filter](./
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
-#### Details of Datasets
-The image below shows the details of the dataset. 
-The information shown are:
-
-    - the organization that published the data
-    - the creator
-    - the publisher
-    - a short description about the dataset
-    - any other detail if provided during the upload
-    
- Click on **Explore** to find more information about the dataset. 
- Hier muss noch beschrieben werden, dass man Daten und Ressourcen nun schon anschauen kann, ebenso dann die Funktionen danach wie Annotate, Transform etc.
- Wie sehr wir ins Detail gehen, müssen wir noch überlegen.
- <img width="914" alt="image" src="https://github.com/user-attachments/assets/1480d8d6-7318-4e90-a625-6db7d8068c3b" />
+Final Remarks: 
+If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
+![US1_1]./images/
 
 
 ### US2:
