@@ -174,7 +174,7 @@ By clicking on the desired dataset in the main display area further information 
 
 Final Remarks: 
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
-![US1_1]./images/
+![US1_1](./images/DataPotal_US1_1.png)
 
 
 ### US2:
@@ -225,66 +225,37 @@ Please note: the **Follow function** can only be used by logged in users.
 ### US2 Extension by Juliane:
 
 > As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
+In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
-- Landing Page des DataPortals
-    - Discovery bei Keywords anklicken
+Once you have narrowed down the search explained in Story 1, you will have different options to consume the data. 
+![US2_1](.images//DataPotal_US2_1.png)
 
-==Hier noch mal auf den Teil in US1 verlinken, in dem die Search Funktionalität beschrieben wird ==
-
-Once you have selected the desired dataset, you will be taken to the following page.
-
-![Dataset_2](./images/DataPotal_Dataset_2.png)
-
-This page offers additional information about the dataset. 
-The information linked to the dataset is the following: 
--  Main contact person for the dataset
--  Publishing organization
+After clicking on the dataset, the “Dataset Overview Page” with information in regards to the dataset like: 
+- Main contact person for the dataset
+- Publishing organization
 - Creator of the dataset
-- Release and modification date
-- Identifier
-- URI
+- and others
+ are displayed.
 
-**==Frage ob das Stimmt==**
-This basic information is automatically created during the upload of the dataset. Further information can be provided on a voluntary basis during the upload.
+In this demonstration case we are looking at a dataset which has been published by another person. So only the tabs Dataset and Groups are displayed. If you look at a dataset which has been uploaded by you an additional tab “FUSEKI“ will be displayed.
 
-By clicking on the button **Explore** further options for the dataset are offered.
+![US2_2](.images//DataPotal_US2_2.png)
 
-![Explore_1](./images/DataPortal_Explore_1.png)
+The images in front of the resources indicate the different formats in relation to the selected dataset. In the example given we have CSV, Jason, TTL, TXT and further.
 
+![US2_3](.images//DataPotal_US2_3.png)
 
-When you click on more information you are guided to the following page:
+In order to get a better overview of the data the button explore offers further options depending on the resource format. 
 
-![Resources-Details](./image/DataPortal_Resources-Details.png)
+![US2_4](.images//DataPotal_US2_4.png)
+![US2_5](.images//DataPotal_US2_5.png)
 
+We suggest to click on the Option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
 
-You can find three main areas on this page.
-**Area 1** provides additional information for the selected resource.
-- last updated
-- Matadata last updated
-- created
-- format
-
-**==Frage ob das Stimmt==**
-Basic information is automatically created during the upload of the dataset. Further information can be provided on a voluntary basis during the upload.
-
-**Area 2** shows you which resource is currently selected. Here you have the option to switch between the different resources associated with to the selected dataset. Currently the resource highlighted in grey is selected. It provided in the CSV format and was created in January 2025. 
-
-![Details_2](./images/DataPotal_Resources-Details_2.png)
-
-The **third area** of interest can be found on the top of the page. Depending on the format of the resource different buttons are displayed: 
-
-**==HIER BRAUCHE ICH NOCH INFO==**
-- **Annotate:** this allows you to….
-- **Transform:** this takes you here…
-- **Go to resource:** this automatically starts the download of the resource or takes you to a connected GitLab project
-
-![Details_3](./images/DataPotal_Resources-Details_3.png)
-
-If you do not need additional information about the resources, you can start the download on the initial page of the dataset by clicking on **Explore --> Go to resource**. 
-
-![Explore_2](./images/DataPotal_Explore_2.png)
-
-**==Frage: Müssen wir hier noch einen "rechtlichen Hinweis" geben, was es bedeutet, wenn man jetzt Zugriff auf die Daten hat. Oder ist das den Personen durch betreten der webseite klar?==**
+#### Detail Page of Dataset: 
+On top of the page different buttons can be found depending on the format selected in the previous step. Show are the buttons for the CSV file. A more detailed explanation of the functions of the different buttons can be found below the picture.
+Also, the URL and the Dataset description can be found on top of the page. 
+![US2_6](.images//DataPotal_US2_6.png)
 
 
 ### US3:
