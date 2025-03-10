@@ -227,7 +227,7 @@ Please note: the **Follow function** can only be used by logged in users.
 In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
 Once you have narrowed down the search explained in Story 1, you will have different options to consume the data. 
-![US2_1](.images/DataPotal_US2_1.png)
+![US2_1](./images/DataPotal_US2_1.png)
 
 After clicking on the dataset, the “Dataset Overview Page” with information in regards to the dataset like: 
 - Main contact person for the dataset
@@ -238,23 +238,23 @@ After clicking on the dataset, the “Dataset Overview Page” with information 
 
 In this demonstration case we are looking at a dataset which has been published by another person. So only the tabs Dataset and Groups are displayed. If you look at a dataset which has been uploaded by you an additional tab “FUSEKI“ will be displayed.
 
-![US2_2](.images/DataPotal_US2_2.png)
+![US2_2](./images/DataPotal_US2_2.png)
 
 The images in front of the resources indicate the different formats in relation to the selected dataset. In the example given we have CSV, Jason, TTL, TXT and further.
 
-![US2_3](.images/DataPotal_US2_3.png)
+![US2_3](./images/DataPotal_US2_3.png)
 
 In order to get a better overview of the data the button explore offers further options depending on the resource format. 
 
-![US2_4](.images/DataPotal_US2_4.png)
-![US2_5](.images/DataPotal_US2_5.png)
+![US2_4](./images/DataPotal_US2_4.png)
+![US2_5](./images/DataPotal_US2_5.png)
 
 We suggest to click on the Option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
 
 #### Detail Page of Dataset: 
 On top of the page different buttons can be found depending on the format selected in the previous step. Show are the buttons for the CSV file. A more detailed explanation of the functions of the different buttons can be found below the picture.
 Also, the URL and the Dataset description can be found on top of the page. 
-![US2_6](.images/DataPotal_US2_6.png)
+![US2_6](./images/DataPotal_US2_6.png)
 
 
 #### Functionalities of Buttons on Top
@@ -265,7 +265,7 @@ Also, the URL and the Dataset description can be found on top of the page.
 
 **Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
 
-![US2_10](.images/DataPortal_US2_10.png)
+![US2_10](./images/DataPortal_US2_10.png)
 
 **Data API:** An API or Application Programming Interface is a messenger or a middleman that lets computer programs securely access data from one another.
 
@@ -281,7 +281,7 @@ Further down on the page indicated by **“Resource”** another functionality c
 
 The **Data Dictionary** is also an optional function which is displayed at the moment because the format CSV is selected.
 
-![US2_7](.images/DataPotal_US2_7.png)
+![US2_7](./images/DataPotal_US2_7.png)
 
 The picture below highlights two more areas of interest on the detail page. Area 1 (Resources) was already previously seen on the picture before. This area shows you which resource is currently selected. Here you have the option to switch between the different resources associated with the selected dataset. The dataset highlighted in grey is the one currently selected and all shown information on this detail page is referred to.
 
@@ -289,7 +289,7 @@ The picture below highlights two more areas of interest on the detail page. Area
 
 Shown area 2 – **Additional Information**- also can be found on each Detail Page of the dataset. Here is the information shown for the resource selected on the left.
 
-![US2_8](.images/DataPotal_US2_8.png)
+![US2_8](./images/DataPotal_US2_8.png)
 
 #### Direct Download
 
