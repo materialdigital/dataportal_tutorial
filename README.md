@@ -303,6 +303,8 @@ Right Clicking on Explore and selecting Download either directly starts the down
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under **Powered by ckan**.
 ![US1_1](./images/DataPotal_US1_1.png)
 
+ENDE
+
 ### US3:
 
 > As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
