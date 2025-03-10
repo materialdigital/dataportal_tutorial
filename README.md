@@ -221,7 +221,6 @@ Please note: the **Follow function** can only be used by logged in users.
 - Follow function only for logged-in users available
 
 
-
 ### US2 Extension by Juliane:
 
 > As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
@@ -257,6 +256,16 @@ On top of the page different buttons can be found depending on the format select
 Also, the URL and the Dataset description can be found on top of the page. 
 ![US2_6](.images//DataPotal_US2_6.png)
 
+
+#### Functionalities of Buttons on Top
+
+**Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed can meaningful evaluations be made. The emphasis in this case is on the enrichment with linguistic information.
+
+**Transform:** Run Transformation, if allowed and not done before, by clicking here a Turlk file is created. This file lists all annotations to the dataset. You can use if for further semantic operations.
+
+**Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
+
+![]
 
 ### US3:
 
