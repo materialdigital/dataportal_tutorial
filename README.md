@@ -1,128 +1,4 @@
-# Entwurf des Schulungsmaterial (MaterialDigital DataPortal tutorial V0.1) - Stand - 25.02.2025
-
-## [MaterialDigital DataPortal](https://kit-pmd-4.ydns.eu/) - dev Version
-
-[TOC]
-
-Prio 1: Schulungmaterial für die aktuelle Version des Datenportals erstellen.
-Prio 2: Verbesserungvorschläge für die Benutzerfreundlichkeit aufschreiben. Anpssung **nur** nach Freigabe vom LK und Allokation von zusätzlichen Kapa.
-
-## Task force
-- Michael Luke
-- Marian Bruns - kennt sich im GitHub aus. - Data Upload?
-- Marina
-- Katharina
-- Juliane
-- Alex
-
-## Sprache
-- Englisch 
-
-## Tasks
-- Struktur schreiben
-- Aufgaben verteilen.
-
-## Structure
-- About Text
-- Übersicht - Link zum DataPortal - without log in
-    - Übersicht der Metriken
-    - Liste von häufigsten Schlagwörter
-    - Suchzeile
-    - Log In Option
-    - Sprachauswahl - unten! - nur von Interface, Texte sind in der Sprache, in der sie angelegt wurden, entsprechend muss die Suche gemacht werden, Suchsprache muss/sollte Englisch sein 
-- Search page
-    - Filter option on the left sidebar
-- Found data set
-    - Description links
-        - Titel
-        - Followers - Nur für eingelogte User
-        - Organisation
-        - Social?
-            - Statt Twitter und Facebook sollte die Organisations-Webseite versinkt sein.
-        - License
-    - Tabs
-        - Dataset
-        - Group
-    - Dataset tab
-        - Titel
-        - Describtion
-        - Data
-            - Titel
-            - Description
-            - Explore Knopf
-                - Drop-down-Pfeil
-                    - Preview
-                    - Download (each file can be previewed without download)
-        - Liste der Keywords
-        - Additional Info
-            - description (done by uploader)
-            - organization 
-            - what is **License not specified** saying - (Logischer Bruch zwischen Organization und Licence)
-- Logged in Users
-    - Anmeldung auf der PMD-Webseite
-- Landing im DataPortal
-    - + Link with User Name
-        - Dashboard
-        - Profile setting
-        - log out
-- User Dashboard
-    - My Datasets
-    - My Organizations
-    - My Group
-    - Profile settings
-- Profile settings
-    - Datasets
-    - Organizations
-    - Groups
-    - Api token - **Marian**
-- Roles
-    - User
-        - **TBD!!!!!**  
-    - Admin
-        - Best practice: 
-            - Auf der Seite der Organisations sollte 
-            - ein kurze Beschreibung und Link der Organisations-Webpage und
-            - Kontakt zum Admin der Organisation, wenn man um Mitgliedschaft anfragt.
-        - Wie verwalten man die Organisationsgruppe? **TBD!!!!!**
-- Data upload
-    - **TBD!!!!!**
-
-
-## About Text
-"About" DataPortal
-
-Willkommen beim MaterialDigital DataPortal – Ihrer zentralen Anlaufstelle für das Hochladen, Verwalten und Teilen von Material-Datensätzen! 
-
-In einer Welt, in der FAIRE Daten eine immer wichtigere Rolle spielen, bieten wir Ihnen ein benutzerfreundliches 'Portal' an, über das Sie Ihre Daten sicher und effizient teilen und organisieren können. Das Team der Plattform MaterialDigital arbeitet seit 2019 gemeinsam mit der MaterialDigital Community an der Entwicklung von De-facto Standards. Diese können im Bereich der semantischen Interoperabilität, der Workflows und der IT-Architektur und Infrastruktur in der Materialwissenschaft und Werkzeugtechnik domänenübergreifend verwendet werden. 
-
-Wir wissen, dass der Umgang mit und das Teilen von (großen) Datenmengen herausfordernd sein kann. Deshalb bieten Ihnen wir Ihnen unser DataPortal an: Dies baut auf der intuitiven Oberfläche von CKAN auf. Es ermöglicht Ihnen, Ihre Datensätze mit Leichtigkeit hochzuladen, zu kategorisieren und zu verwalten. Egal, ob Sie ein*e Forscher*in, ein Unternehmen oder ein*e Datenenthusiast*in sind – unsere Plattform ist darauf ausgelegt, Ihre Bedürfnisse zu erfüllen und geteilte Datensätze zu finden und zu nutzen.
-
-Unsere Funktionen umfassen:
-
-- Einfache Datenverwaltung: Laden Sie Ihre Datensätze in verschiedenen Formaten hoch und verwalten Sie sie an einem Ort.
-
-- Sichere Speicherung: Ihre Daten sind bei uns sicher. Wir setzen auf modernste Sicherheitsstandards, um Ihre Informationen zu schützen.
-
-- Flexibles Teilen: Teilen Sie Ihre Datensätze mit Kolleg*innen oder der Öffentlichkeit, ganz nach Ihren Bedürfnissen.
-
-- Analytische Tools: Nutzen Sie unsere integrierten Tools, um Ihre Daten zu analysieren und wertvolle Erkenntnisse zu gewinnen.
-
-Wir in der Initiative MaterialDigital glauben an die Power von FAIRen Daten und gemeinsamen Strukturen und Herangehensweisen.
-
-Treten Sie unserer Community bei und erleben Sie, wie einfach und effektiv Datenmanagement sein kann!
-
-Ihr PMD Team 
-
-Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
-
-
-## User Stories
-
-### US1:
-
-> As a visiting user, I want to explore the data by searching and filtering the available data by keywords, categorys, compartibility and content.
-
-
+### US1
 #### Landing Page DataPortal
 If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
 
@@ -148,11 +24,11 @@ Our DataPortal also offers you a pre-filtered search. Simply click on the follow
 By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published datasets and resources.
 
 #### Filter - Datasets
-Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar. (Unterschied zwischen Datasets und Resources!!)
+Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar.
 ![Dataset](./images/DataPotal_Dataset_1.png)
 
 #### Filter - Resources
-Clicking on **resources** will display all the individual files that are part of the datasets uploaded to the DataPortal.
+Clicking on **resources** will display all the individual files that are part of the datasets uploaded to the DataPortal. They hold the data itself.
 
 #### Filter - Organizations
 Use this function to discover the datasets provided by a certain organization. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
@@ -172,9 +48,12 @@ Your selected filters can be deselected by clicking on the “x”. ![Filter](./
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
+Final Remarks: 
+If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
+![US1_1](./images/DataPotal_US1_1.png)
+
 ### US2:
 
-As a visiting user, I found some interisting datasets and I want to digest/consume them, for further analysis.
 In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
 Once you have narrowed down your search explained in Story 1, you have several options to consume the data. 
@@ -194,7 +73,7 @@ The icons associated with the resources indicate the different formats in which 
 
 ![US2_3](./images/DataPotal_US2_3.png)
 
-In order to get a better overview of the data the button explore offers further options depending on the resource format. 
+In order to get a better overview of the data the button "Explore" offers further options depending on the resource format. You can "Preview" the file in your browser, "Download" it directly, or "Create a Mapping".
 
 ![US2_4](./images/DataPotal_US2_4.png)
 ![US2_5](./images/DataPotal_US2_5.png)
@@ -202,15 +81,15 @@ In order to get a better overview of the data the button explore offers further 
 We suggest to click on the option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
 
 #### Detail Page of Dataset: 
-On top of the page different buttons can be found depending on the format selected in the previous step. Show are the buttons for the CSV file. A more detailed explanation of the functions of the different buttons can be found below the picture.
-Also, the URL and the Dataset description can be found on top of the page. 
+There are different buttons at the top of the explore page, depending on the format you selected in the previous step. The buttons shown in this example are available for CSV files. 
+You will always find the URL, a short description of the record and the source code at the top of the page.
 ![US2_6](./images/DataPotal_US2_6.png)
 
-#### Functionalities of Buttons on Top
+#### Functionalities of Buttons at the top of the explore page
 
-**Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed can meaningful evaluations be made. The emphasis in this case is on the enrichment with linguistic information.
+**Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
 
-**Transform:** Run Transformation, if allowed and not done before, by clicking here a Turlk file is created. This file lists all annotations to the dataset. You can use if for further semantic operations.
+**Transform:** This feature is only available to registered users - the first time you click here, a Turtle (Terse RDF Triple Language) file will be created. This file lists all annotations for the dataset. You can use it for further semantic operations.
 
 **Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
 
