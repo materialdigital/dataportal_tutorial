@@ -249,6 +249,8 @@ In order to get a better overview of the data the button explore offers further 
 ![US2_4](./images/DataPotal_US2_4.png)
 ![US2_5](./images/DataPotal_US2_5.png)
 
+Platzhalter: Es gibt div. Optionen je nach Datenformat z.B. Preview, Download und Create mapping.
+
 We suggest to click on the Option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
 
 #### Detail Page of Dataset: 
