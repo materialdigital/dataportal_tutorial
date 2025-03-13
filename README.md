@@ -87,7 +87,7 @@ You will always find the URL, a short description of the record and the source c
 
 #### Functionalities of Buttons at the top of the explore page
 
-**Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
+**Annotate:** The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
 
 **Transform:** This feature is only available to registered users - the first time you click here, a Turtle (Terse RDF Triple Language) file will be created. This file lists all annotations for the dataset. You can use it for further semantic operations.
 
