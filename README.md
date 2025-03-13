@@ -198,13 +198,6 @@ Clicking on the Material Digital Logo takes you back to the landing page.
 ![back to landing page](./images/DataPortal_back_to_landing_page.png)
 Clicking on Datasets, Organizations takes you to the same result as clicking on the respective buttons on the landing page.
 
-The link **Groups** takes you to so far established groups.
-You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets.
-
-![Groups](./images/DataPotal_Groups.png)
-
-Please note: the **Follow function** can only be used by logged in users.
-
 #### QUESTIONS
 - Initial: Which practical question needs to be answered. 
 - Landing Page des DataPortals
@@ -306,6 +299,23 @@ If there are any questions in regards to CKAN along the way there is always the 
 ![US1_1](./images/DataPotal_US1_1.png)
 
 ENDE
+### Good to know
+
+Groups:
+Erst für eingeloggte User relevant. The link **Groups** takes you to so far established groups.
+You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets.
+Groups are meant to be used by the community of users of a site (the people consuming the data, not the people who're publishing the datasets on the site) to collect related datasets together into themes like "climate" etc.
+Für eigenes Projekt/eigenes Team/Arbeitsgruppe
+
+![Groups](./images/DataPotal_Groups.png)
+
+https://stackoverflow.com/questions/20963965/whats-the-difference-between-organizations-groups-in-ckan
+
+Follow:
+Please note: the **Follow function** can only be used by logged in users
+
+
+
 
 ### US3:
 
