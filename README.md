@@ -48,7 +48,7 @@ Your selected filters can be deselected by clicking on the “x”. ![Filter](./
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
-Final Remarks: 
+#### Final Remarks: 
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
 ![US1_1](./images/DataPotal_US1_1.png)
 
@@ -79,6 +79,8 @@ In order to get a better overview of the data the button "Explore" offers furthe
 ![US2_5](./images/DataPotal_US2_5.png)
 
 We suggest to click on the option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
+
+The functionalities **Download** and **Create Mapping** are further explained underneath the description of the detailed page for the dataset.
 
 #### Detail Page of Dataset: 
 There are different buttons at the top of the explore page, depending on the format you selected in the previous step. The buttons shown in this example are available for CSV files. 
@@ -124,7 +126,22 @@ Shown area 2 – **Additional Information**- also can be found on each Detail Pa
 If you do not need additional information about the different resources, there is also the possibility to download resources on the **Dataset Overview Page**.
 Right Clicking on Explore and selecting Download either directly starts the download or takes you to the respective data source.
 
-![US2_9](.images/DataPotal_US2_9.png)
+![US2_9](./images/DataPotal_US2_9.png)
+
+#### Create Mapping
+
+By clicking on the option **Create mapping** for a given resource of the dataset you will be guided to the following page. 
+Create a rule bases mapping by filling the form below. It will query the given metadata file and the graph template by the Class IRI set for subjects and objects. When clicking "Start Mapping" select widgets will spawn allowing you to map a subject to an object. The resulting YAML file will contain a ruleset for each of the assertions made, and when run create triples connecting the subject meeting the condition by the predicate IRI given. Download the file, make changes if needed and upload it to the "mappings" group here in CKAN if you want to make use of the automated mapping process applying the mapping.
+
+![US2_11](./images/DataPotal_US2_11.png)
+
+#### Good to Know
+
+**Groups:** The Group functionality is relevant for looged in users. The button Groups takes you to so far established groups. You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets. Groups are meant to be used by the community of users of a site.
+
+![Groups](./images/DataPotal_Groups.png)
+
+**Follow:**  The the Follow function is only relevant for by logged in users.
 
 #### Final Remarks
 
