@@ -53,7 +53,6 @@ If there are any questions in regards to CKAN along the way there is always the 
 ![US1_1](./images/DataPotal_US1_1.png)
 
 ### US2:
-
 In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
 Once you have narrowed down your search explained in Story 1, you have several options to consume the data. 
@@ -91,61 +90,22 @@ You will always find the URL, a short description of the record and the source c
 
 **Annotate:** The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
 
-**Transform:** This feature is only available to registered users - the first time you click here, a Turtle (Terse RDF Triple Language) file will be created. This file lists all annotations for the dataset. You can use it for further semantic operations.
+### US3:
 
-**Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
+> As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
 
-![US2_10](./images/DataPortal_US2_10.png)
-
-**Data API:** An API or Application Programming Interface is a messenger or a middleman that lets computer programs securely access data from one another.
-
-#### Display Area "Preview"
-
-Underneath the Dataset Description a preview of the data is displayed. Below shown is the preview for the CSV file but this can also vary depending on the selected format. 
-
-#### Display Area "Resource"
-
-Further down on the page indicated by **“Resource”** another functionality can be found. Here you can see which resource is selected and also switch between the different data formats/resources. 
-
-#### Display Area "Data Dictionary"
-
-The **Data Dictionary** is also an optional function which is displayed at the moment because the format CSV is selected.
-
-![US2_7](./images/DataPotal_US2_7.png)
-
-The picture below highlights two more areas of interest on the detail page. Area 1 (Resources) was already previously seen on the picture before. This area shows you which resource is currently selected. Here you have the option to switch between the different resources associated with the selected dataset. The dataset highlighted in grey is the one currently selected and all shown information on this detail page is referred to.
-
-#### Display Area "Additional Information"
-
-Shown area 2 – **Additional Information**- also can be found on each Detail Page of the dataset. Here is the information shown for the resource selected on the left.
-
-![US2_8](./images/DataPotal_US2_8.png)
-
-#### Direct Download
-
-If you do not need additional information about the different resources, there is also the possibility to download resources on the **Dataset Overview Page**.
-Right Clicking on Explore and selecting Download either directly starts the download or takes you to the respective data source.
-
-![US2_9](./images/DataPotal_US2_9.png)
-
-#### Create Mapping
-
-By clicking on the option **Create mapping** for a given resource of the dataset you will be guided to the following page. 
-Create a rule bases mapping by filling the form below. It will query the given metadata file and the graph template by the Class IRI set for subjects and objects. When clicking "Start Mapping" select widgets will spawn allowing you to map a subject to an object. The resulting YAML file will contain a ruleset for each of the assertions made, and when run create triples connecting the subject meeting the condition by the predicate IRI given. Download the file, make changes if needed and upload it to the "mappings" group here in CKAN if you want to make use of the automated mapping process applying the mapping.
-
-![US2_11](./images/DataPotal_US2_11.png)
-
-#### Good to Know
-
-**Groups:** The Group functionality is relevant for looged in users. The button Groups takes you to so far established groups. You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets. Groups are meant to be used by the community of users of a site.
-
-![Groups](./images/DataPotal_Groups.png)
-
-**Follow:**  The the Follow function is only relevant for by logged in users.
-
-#### Final Remarks
-
-If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under **Powered by ckan**.
-![US1_1](./images/DataPotal_US1_1.png)
-
-ENDE
+- Registration at "material-digital.de"
+- Landing Page des DataPortals
+- Getting access to Organisation
+    - Admin User Story
+    - Member User Story
+- Uploading Files
+- Access Management
+    - privat/public
+    - for Organisation / for Project
+- Linking/citing the data
+- User Profile  
+    - how to reach own User Profile
+    - what can be seen and what can be managed there
+- membership to organizations
+    - can only be part of your organization, can't request to be member of other organizations due to privacy issues
