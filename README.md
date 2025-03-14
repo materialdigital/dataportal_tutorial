@@ -124,69 +124,72 @@ Kontaktieren Sie uns hier für mehr Informationen, Support und Austausch.
 
 
 #### Landing Page DataPortal
- After entering the [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/) you reach the landing page of the DataPortal. 
+If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
 
- The button (Log In) in the right-hand corner indicates that you are a visiting user with limited functionality to the DataPortal.
+The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
 
- On the landing page the following information can be found: 
-    - Access to Database search
-    - Current Number of Datasets (158) published
-    - Current Number of Resources (488) to the published Datasets
-    - Current Number of Organizations (3) which have provided Datasets to the DataPortal
-    - Most common key words in relation to the associated Datasets
+On the landing page you have different options for searching the datasets of the DataPortal.
 
-Clicking on the respective field takes you directly to the results of the database.
-The overview functionalities and keywords can be used to “browse” around the website and get familiar with the published datasets.
-
-#### Functionality - Datasets/Resources
-When clicking on area **datasets or resources** all available datasets are displayed. The tags and filter options in the sidebar help narrow down the desired data.
-![Dataset](./images/DataPotal_Dataset_1.png)
-
-The filters are built on top of each other. Meaning when a certain tag is selected only the available formats to these tags are shown. Filters can be deselected by clicking on the “x”.
-![Filter](./images/DataPotal_Dataset_Filter.png)
-
-#### Organizations
-This function can be used when all the datasets provided by a certain organization want to be viewed. There is an integrated search field to look up organizations. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
-![Organizations](./images/DataPotal_Organizations.png)
-
-#### Keywords
-The keywords displayed are the most commonly tags associated with the datasets uploaded. 
-By clicking on the individual words, one is immediately directed to the search area.
-![Keywords](./images/DataPotal_keywords.png)
-
-#### Search Field
-When having a specific topic in mind that wants to be explored – the search functionality is the best option.
-When using the search functionality, the following points must be observed: 
- - There is no translation available, so only the key word used in the language entered can be found. We advise you to perform the search in English
+#### Free text search bar
+If you have already a specific topic in mind that you would like to explore, just use the free text search bar. You can use the free text search bar for an unfiltered search of our datasets. When using the search function, please note the following points: There is no translation available, the keywords will be found in the language in which the dataset was created. We recommend that you enter your search in English. Use quotation marks "" to search or filter for an exact word or group of words. You will get a better match. (Funktion nochmal prüfen!)
 ![Search Func](./images/DataPotal_Search%20Funtionality%20.png)
 
-#### Search Results
-For the shown search term, 41 datasets are found
-With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be further narrowed down.
+#### Pre-filtered search
+
+Our DataPortal also offers you a pre-filtered search. Simply click on the following areas to start a search:
+
+- **Datasets** - This search will list all published datasets
+  
+- **Resources** - This search includes all resources contained in the datasets
+  
+- **Organizations** - This search will show you the providers of the datasets
+
+By clicking on the respective search field, you can directly access the results of the database. The overview functionalities and keywords can be used to “browse” the website and familiarize yourself with the published datasets and resources.
+
+#### Filter - Datasets
+Clicking on **datasets** will display all available datasets. To further narrow your search: use the tags and filter options on the left sidebar. (Unterschied zwischen Datasets und Resources!!)
+![Dataset](./images/DataPotal_Dataset_1.png)
+
+#### Filter - Resources
+Clicking on **resources** will display all the individual files that are part of the datasets uploaded to the DataPortal.
+
+#### Filter - Organizations
+Use this function to discover the datasets provided by a certain organization. Full names and partial names (e.g. Kupfer for KupferDigital) lead to the desired result.
+![Organizations](./images/DataPotal_Organizations.png)
+
+#### Filter - Tags
+On the landing page, you will also find the most common tags related to the available data set. Click on the tag to directly display all results for the corresponding keyword.
+![Keywords](./images/DataPotal_keywords.png)
+
+#### Search Results and adjust filters
+Whether you entered a search term yourself or clicked a tag, all results are displayed in a list. Sorted by the highest match. With the help of the sidebar, the search can be further fine-tuned. E.g. Formats, or specific organizations can be narrowed down further.
 ![Dataset](./images/DataPotal_Dataset_Sidebar%20.png)
+
+You can now also sort the results displayed by relevance, name or date last edited. <img width="640" alt="filter relevance" src="https://github.com/user-attachments/assets/12c093b7-05c6-4da2-8632-6d8690825f21" />
+
+Your selected filters can be deselected by clicking on the “x”. ![Filter](./images/DataPotal_Dataset_Filter.png)
 
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
-#### Details of Datasets
-The picture below shows the details for the dataset. 
-Information displayed are:
-    - organization which published the data
-    - the creator
-    - the publisher
-    - short description about the dataset
-    - any many more details if provided during the upload
+Final Remarks: 
+If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
+![US1_1](./images/DataPotal_US1_1.png)
 
-By clicking on **Explore** either more information about the dataset can be found or **Go to resource** directly starts the download of the dataset in the format stated (in the case shown as .lis file) 
-Please note: the **Follow function** only only be used by logged on users
-In the case below only one type of format is provided:
 
+### US2:
+
+> As a visiting user, I found some interesting datasets and i want to digest/consume them, for further analysis.
+
+If you have found a dataset with resources that interest you, you have the following options. Click on **Explore** to find more information about the dataset. Clicking on **Go to resource** will start the download of the dataset in the given format (shown as a .lis file in the example image).
+
+In the case below, only one type of format is provided:
 ![Details](./images/DataPotal_Dataset_Details.png)
 
 Whereas the dataset shown below offers 5 different formats:
 ![Details 2](./images/DataPotal_Dataset_Details2.png)
 
-The formats offered per dataset can already be seen in the search results. And pre-selected with the help of the sidebar menu.
+The formats available for each dataset can already be seen in the search results. And pre-selected with the help of the sidebar menu.
 
 ![Result search](./images/DataPotal_Dataset_Result.png)
 
@@ -194,12 +197,6 @@ The formats offered per dataset can already be seen in the search results. And p
 Clicking on the Material Digital Logo takes you back to the landing page.
 ![back to landing page](./images/DataPortal_back_to_landing_page.png)
 Clicking on Datasets, Organizations takes you to the same result as clicking on the respective buttons on the landing page.
-
-The link **Groups** takes you to so far established groups.
-You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets.
-
-![Groups](./images/DataPotal_Groups.png)
-
 
 #### QUESTIONS
 - Initial: Which practical question needs to be answered. 
@@ -217,13 +214,108 @@ You can use CKAN Groups to create and manage collections of datasets. This could
 - Follow function only for logged-in users available
 
 
-
-### US2:
+### US2 Extension by Juliane:
 
 > As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
+In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
-- Landing Page des DataPortals
-    - Discovery bei Keywords anklicken
+Once you have narrowed down the search explained in Story 1, you will have different options to consume the data. 
+![US2_1](./images/DataPotal_US2_1.png)
+
+After clicking on the dataset, the “Dataset Overview Page” with information in regards to the dataset like: 
+- Main contact person for the dataset
+- Publishing organization
+- Creator of the dataset
+- and others
+ are displayed.
+
+In this demonstration case we are looking at a dataset which has been published by another person. So only the tabs Dataset and Groups are displayed. If you look at a dataset which has been uploaded by you an additional tab “FUSEKI“ will be displayed.
+
+![US2_2](./images/DataPotal_US2_2.png)
+
+The images in front of the resources indicate the different formats in relation to the selected dataset. In the example given we have CSV, Jason, TTL, TXT and further.
+
+![US2_3](./images/DataPotal_US2_3.png)
+
+In order to get a better overview of the data the button explore offers further options depending on the resource format. 
+
+![US2_4](./images/DataPotal_US2_4.png)
+![US2_5](./images/DataPotal_US2_5.png)
+
+Platzhalter: Es gibt div. Optionen je nach Datenformat z.B. Preview, Download und Create mapping.
+
+We suggest to click on the Option **Preview**. Which takes you to the **Detail Page of the Dataset** and its different Resources.
+
+#### Detail Page of Dataset: 
+On top of the page different buttons can be found depending on the format selected in the previous step. Show are the buttons for the CSV file. A more detailed explanation of the functions of the different buttons can be found below the picture.
+Also, the URL and the Dataset description can be found on top of the page. 
+![US2_6](./images/DataPotal_US2_6.png)
+
+
+#### Functionalities of Buttons on Top
+
+**Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed can meaningful evaluations be made. The emphasis in this case is on the enrichment with linguistic information.
+
+**Transform:** Run Transformation, if allowed and not done before, by clicking here a Turlk file is created. This file lists all annotations to the dataset. You can use if for further semantic operations.
+
+**Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
+
+![US2_10](./images/DataPortal_US2_10.png)
+
+**Data API:** An API or Application Programming Interface is a messenger or a middleman that lets computer programs securely access data from one another.
+
+#### Display Area "Preview"
+
+Underneath the Dataset Description a preview of the data is displayed. Below shown is the preview for the CSV file but this can also vary depending on the selected format. 
+
+#### Display Area "Resource"
+
+Further down on the page indicated by **“Resource”** another functionality can be found. Here you can see which resource is selected and also switch between the different data formats/resources. 
+
+#### Display Area "Data Dictionary"
+
+The **Data Dictionary** is also an optional function which is displayed at the moment because the format CSV is selected.
+
+![US2_7](./images/DataPotal_US2_7.png)
+
+The picture below highlights two more areas of interest on the detail page. Area 1 (Resources) was already previously seen on the picture before. This area shows you which resource is currently selected. Here you have the option to switch between the different resources associated with the selected dataset. The dataset highlighted in grey is the one currently selected and all shown information on this detail page is referred to.
+
+#### Display Area "Additional Information"
+
+Shown area 2 – **Additional Information**- also can be found on each Detail Page of the dataset. Here is the information shown for the resource selected on the left.
+
+![US2_8](./images/DataPotal_US2_8.png)
+
+#### Direct Download
+
+If you do not need additional information about the different resources, there is also the possibility to download resources on the **Dataset Overview Page**.
+Right Clicking on Explore and selecting Download either directly starts the download or takes you to the respective data source.
+
+![US2_9](.images/DataPotal_US2_9.png)
+
+#### Final Remarks
+
+If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under **Powered by ckan**.
+![US1_1](./images/DataPotal_US1_1.png)
+
+ENDE
+### Good to know
+
+Groups:
+Erst für eingeloggte User relevant. The link **Groups** takes you to so far established groups.
+You can use CKAN Groups to create and manage collections of datasets. This could be to catalogue datasets for a particular project or team, or on a particular theme, or as a very simple way to help people find and search your own published datasets.
+Groups are meant to be used by the community of users of a site (the people consuming the data, not the people who're publishing the datasets on the site) to collect related datasets together into themes like "climate" etc.
+Für eigenes Projekt/eigenes Team/Arbeitsgruppe
+
+![Groups](./images/DataPotal_Groups.png)
+
+https://stackoverflow.com/questions/20963965/whats-the-difference-between-organizations-groups-in-ckan
+
+Follow:
+Please note: the **Follow function** can only be used by logged in users
+
+
+
 
 ### US3:
 
