@@ -156,18 +156,3 @@ If there are any questions in regards to CKAN along the way there is always the 
 
 > As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
 
-- Registration at "material-digital.de"
-- Landing Page des DataPortals
-- Getting access to Organisation
-    - Admin User Story
-    - Member User Story
-- Uploading Files
-- Access Management
-    - privat/public
-    - for Organisation / for Project
-- Linking/citing the data
-- User Profile  
-    - how to reach own User Profile
-    - what can be seen and what can be managed there
-- membership to organizations
-    - can only be part of your organization, can't request to be member of other organizations due to privacy issues
