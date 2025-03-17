@@ -154,5 +154,17 @@ If there are any questions in regards to CKAN along the way there is always the 
 
 ### US3:
 
-> As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
+> As a registered user, I want to add data to the data portal. I want to make the data accessible to the public and relate the accossiated project, owner and publisher to the dataset to make the data findable and accassible while keeping a clean track of its provenance.
+
+**Prerequisites:**
+You need a functional *material-digital Account* for logging in via the single-sign-on.
+Also, you need to be member with at least "Editor" privileges in at least one organisation on the dataportal to add datasets.
+
+#### Add a dataset
+You can start the process of adding data from two places: either, you click on "Datasets" on the top left. Then, above the search bar you find the "Add dataset" button:
+![US3_1](./images/DataPortal_us3_1.png)
+
+The other way here is to click on "organizations" (right beside "Datasets"), select the organization for which you want to add a dataset ( and where you have at least "Editor" privileges).
+Then, under "Datasets you fond again the "Add dataset" button.
+![US3_2](./images/DataPortal_us3_2.png)
 
