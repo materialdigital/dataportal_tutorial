@@ -171,11 +171,11 @@ Then, under "Datasets you fond again the "Add dataset" button.
 After clicking on the button, you are facing a form, where you may fill in various information regarding your dataset like  
 ##### General information
 A title, a description and some keywords for your dataset. The keywords are later associated with tags under which you can find the dataset.
-![US3_1](./images/DataPortal_us3_3.png)
+![US3_3](./images/DataPortal_us3_3.png)
 
 ##### Correspondence
 Information regarding contact information, like an URI, Mailaddress etc. for a contact person.
-![US3_1](./images/DataPortal_us3_4.png)
+![US3_4](./images/DataPortal_us3_4.png)
 You can also add a *Publisher* and the *Creator* of the dataset:
-![US3_1](./images/DataPortal_us3_5.png)
-![US3_1](./images/DataPortal_us3_6.png)
+![US3_5](./images/DataPortal_us3_5.png)
+![US3_6](./images/DataPortal_us3_6.png)
