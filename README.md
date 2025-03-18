@@ -1,4 +1,7 @@
 ### US1
+
+> As a visiting user, I want to explore the data by searching and filtering the available data by keywords, categorys, compartibility and content.
+
 #### Landing Page DataPortal
 If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
 
