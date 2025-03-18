@@ -90,17 +90,13 @@ You will always find the URL, a short description of the record and the source c
 
 #### Functionalities of Buttons at the top of the explore page
 
-**Annotate:** The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
-
-#### Functionalities of Buttons on Top
-
 **Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed can meaningful evaluations be made. The emphasis in this case is on the enrichment with linguistic information.
 
 **Transform:** Run Transformation, if allowed and not done before, by clicking here a Turlk file is created. This file lists all annotations to the dataset. You can use if for further semantic operations.
 
 **Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
 
-![US2_10](./images/DataPortal_US2_10.png)
+![US2_10](./images/DataPotal_US2_10.png)
 
 **Data API:** An API or Application Programming Interface is a messenger or a middleman that lets computer programs securely access data from one another.
 
@@ -131,7 +127,7 @@ Shown area 2 – **Additional Information**- also can be found on each Detail Pa
 If you do not need additional information about the different resources, there is also the possibility to download resources on the **Dataset Overview Page**.
 Right Clicking on Explore and selecting Download either directly starts the download or takes you to the respective data source.
 
-![US2_9](.images/DataPotal_US2_9.png)
+![US2_9](./images/DataPotal_US2_9.png)
 
 #### Create Mapping
  
