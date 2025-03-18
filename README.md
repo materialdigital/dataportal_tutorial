@@ -189,3 +189,7 @@ Among the following fields, espescially the **license**, the **organization** an
 The organization is mandatory and a dataset cannot be added without filling this field.
 The visibility lets you control whether the dataset is publically visible to anyone on the internet ("Public") or only to registered users of the dataportal ("Private")
 ![US3_7](./images/DataPortal_us3_7.png)
+
+##### Release and version information
+Of course you can also add a relaease date, modification date, a version number (including further version notes), a release frequency and more information on the dataset's provenance.
+![US3_8](./images/DataPortal_us3_8.png)
