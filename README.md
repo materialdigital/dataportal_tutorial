@@ -168,14 +168,24 @@ The other way here is to click on "organizations" (right beside "Datasets"), sel
 Then, under "Datasets you fond again the "Add dataset" button.
 ![US3_2](./images/DataPortal_us3_2.png)
 
-After clicking on the button, you are facing a form, where you may fill in various information regarding your dataset like  
+After clicking on the button, you are facing a form, where you may fill in various information regarding your dataset.
+Note that mandatory information is marked with a red star.
+The associated field must be filled for successfully uploading your data.
+In the following we will only cover a few important options offered here.
+
 ##### General information
 A title, a description and some keywords for your dataset. The keywords are later associated with tags under which you can find the dataset.
 ![US3_3](./images/DataPortal_us3_3.png)
 
 ##### Correspondence
-Information regarding contact information, like an URI, Mailaddress etc. for a contact person.
+Information regarding contact information, like an URI, mailaddress etc. for a contact person.
 ![US3_4](./images/DataPortal_us3_4.png)
 You can also add a *Publisher* and the *Creator* of the dataset:
 ![US3_5](./images/DataPortal_us3_5.png)
 ![US3_6](./images/DataPortal_us3_6.png)
+
+##### Micallaneaous information
+Among the following fields, espescially the **license**, the **organization** and the **visibility** are particularly important.
+The organization is mandatory and a dataset cannot be added without filling this field.
+The visibility lets you control whether the dataset is publically visible to anyone on the internet ("Public") or only to registered users of the dataportal ("Private")
+![US3_7](./images/DataPortal_us3_7.png)
