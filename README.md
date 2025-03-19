@@ -1,6 +1,6 @@
-### US1
+### User Story 1
 
-> As a visiting user, I want to explore the data by searching and filtering the available data by keywords, categorys, compartibility and content.
+> As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
 
 #### Landing Page DataPortal
 If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
@@ -55,8 +55,8 @@ By clicking on the desired dataset in the main display area further information 
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
 ![US1_1](./images/DataPotal_US1_1.png)
 
-### US2:
-As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
+### User Story 2:
+As a visiting user, I found some interesting datasets and I want to digest/consume them, for further analysis.
 
 In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
@@ -151,7 +151,7 @@ Right Clicking on Explore and selecting Download either directly starts the down
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
 ![US1_1](./images/DataPotal_US1_1.png)
 
-### US3:
+### User Story 3:
 
 > As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
 
