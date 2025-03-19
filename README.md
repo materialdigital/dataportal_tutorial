@@ -1,7 +1,10 @@
 ## Brief Guide to Using the PMD DataPortal
 **Authors:** Alexander Straumal, Marina Shakiba, Juliane Schleifer, Marian Bruns, Michael Luke
+
 **Creation Date:** 25-03-19
+
 **Last updated:** 19-03-2025 by JS
+
 **Contact:** t.b.d.
 
 Hello MaterialNeutral1 Projects,
