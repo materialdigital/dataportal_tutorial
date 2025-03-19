@@ -1,3 +1,43 @@
+## Brief Guide to Using the PMD DataPortal
+**Authors:** Alexander Straumal, Marina Shakiba, Juliane Schleifer, Marian Bruns, Michael Luke
+**Creation Date:** 25-03-19
+**Last updated:** 19-03-2025 by JS
+**Contact:** t.b.d.
+
+Hello MaterialNeutral1 Projects,
+The PMD Data Portal serves the sustainable storage of your project data. Here you will find a brief guide that shows how you can utilize the key functions of the PMD Data Portal. This is explained through 3 user stories. User Story 1 demonstrates how to search for data and explore the Data Portal. User Story 2 is dedicated to consuming or downloading datasets. User Story 3 focuses on how to deposit your own datasets in the Data Portal. Additionally, example formats for data storage are provided. Beyond these simple user stories, the Data Portal offers many additional features to generate semantic descriptions and knowledge graphs of your data, as well as to store them in RDF format in a Fuseki triple store. If you are interested in this, please feel free to contact us directly or utilize the offered web meetings (dates will be arranged). Good luck with using the PMD Data Portal.
+
+
+## About DataPortal
+Welcome to the MaterialDigital DataPortal - your one-stop-shop for uploading, managing and sharing material datasets! 
+
+In a world where FAIR data plays an increasingly important role, we offer you a user-friendly 'portal' where you can share and organize your data securely and efficiently. The MaterialDigital platform team has been working with the MaterialDigital community since 2019 to develop de facto standards. These can be used across domains in the area of semantic interoperability, workflows and IT architecture and infrastructure in materials science and tool technology. 
+
+We know that handling and sharing (large) amounts of data can be challenging. That's why we offer you our DataPortal: This builds on the intuitive interface of CKAN. It allows you to upload, categorize and manage your datasets with ease. Whether you are a researcher, a company or a data enthusiast, our platform is designed to meet your needs to find and use shared datasets.
+
+Our features include:
+
+- Easy data management: upload your datasets in different formats and manage them in one place.
+
+- Secure storage: Your data is safe with us. We use the latest security standards to protect your information
+
+- Flexible sharing: Share your data sets with colleagues or the public, according to your needs.
+
+- Analytical tools: Use our integrated tools to analyze your data and gain valuable insights.
+
+At MaterialDigital, we believe in the power of FAIR data and shared structures and approaches.
+
+Join our community and experience how easy and effective data management can be!
+
+Your PMD Team 
+
+Contact us here for more information, support and exchange.
+
+
+
+
+## User Stories
+
 ### User Story 1
 
 > As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
