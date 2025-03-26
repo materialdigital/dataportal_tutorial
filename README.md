@@ -42,11 +42,11 @@ Contact us here for more information, support and exchange.
 
 In order to use the user specific functinalities (e.g.  Data upload, creation of groups, ...) of the DataPartal you first need to create an account on the PMD Website.
 
-The direct link to the SingUp Page can be found [here](https://www.material-digital.de/signup/). 
+The direct link to the SingUp Page can be found [and the PMD Web page](https://www.material-digital.de/signup/). 
 
 There you will be guided through the sing up process and relevant data is inquired.
 
-The same credentials are then used when you want to sign into the [DataPortal] (https://kit-pmd-4.ydns.eu/user/login). Use the button Sign in with SSO and the information for the PMD SSO are taken over as they are saved within the PMD SSO.
+The same credentials are then used when you want to sign into the [DataPortal](https://kit-pmd-4.ydns.eu/user/login). Use the button Sign in with SSO and the information for the PMD SSO are taken over as they are saved within the PMD SSO.
 
  ![Login](./images/DataPotal_Login.png)
 
