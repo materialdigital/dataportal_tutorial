@@ -5,7 +5,7 @@
 
 **Last updated:** 2025-03-26 by JS
 
-**Contact:** t.b.d.
+**Contact:** [Michael Luke] (michael.luke@iwm.fraunhofer.de)
 
 Hello MaterialNeutral1 Projects,
 
