@@ -48,7 +48,7 @@ There you will be guided through the sing up process and relevant data is inquir
 
 The same credentials are then used when you want to sign into the [DataPortal] (https://kit-pmd-4.ydns.eu/user/login). Use the button Sign in with SSO and the information for the PMD SSO are taken over and saved within the PMD SSO.
 
- ![Login](./images/DataPotal_Login)
+ ![Login](./images/DataPotal_Login.png)
 
 ## User Stories
 
