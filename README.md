@@ -57,7 +57,7 @@ The same credentials are then used when you want to sign into the [DataPortal](h
 > As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
 
 #### Landing Page DataPortal
-If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
+If you enter the following address in your browser, you will be directed to the PMD Data Portal: [https://dataportal-demo.material-digital.de/](https://dataportal-demo.material-digital.de/)
 
 The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
