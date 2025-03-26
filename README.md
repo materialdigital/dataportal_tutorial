@@ -3,7 +3,7 @@
 
 **Creation Date:** 25-03-19
 
-**Last updated:** 19-03-2025 by JS
+**Last updated:** 2025-03-26 by JS
 
 **Contact:** t.b.d.
 
@@ -38,6 +38,15 @@ Your PMD Team
 
 Contact us here for more information, support and exchange.
 
+## Creating a User Account
+
+In order to use the user specific functinalities (e.g.  Data upload, creation of groups, ...) of the DataPartal you first need to create an account on the PMD Website.
+
+The direct link to the SingUp Page can be found [here](https://www.material-digital.de/signup/). 
+
+There you will be guided through the sing up process and relevant data is inquired.
+
+The same credentials are then used when you want to sign into the [DataPortal] (https://kit-pmd-4.ydns.eu/user/login). Use the button Sign in with SSO and the information for the PMD SSO are taken over and saved within the PMD SSO.
 
 
 
