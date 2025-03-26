@@ -1,6 +1,63 @@
-### US1
+## Brief Guide to Using the PMD DataPortal
+**Authors:** Alexander Straumal, Marina Shakiba, Juliane Schleifer, Marian Bruns, Michael Luke
+
+**Creation Date:** 25-03-19
+
+**Last updated:** 2025-03-26 by MB
+
+**Contact:** Michael Luke (michael.luke@iwm.fraunhofer.de)
+
+Hello MaterialNeutral1 Projects,
+
+The PMD Data Portal serves the sustainable storage of your project data. Here you will find a brief guide that shows how you can utilize the key functions of the PMD Data Portal. This is explained through 3 user stories. User Story 1 demonstrates how to search for data and explore the Data Portal. User Story 2 is dedicated to consuming or downloading datasets. User Story 3 focuses on how to deposit your own datasets in the Data Portal. Additionally, example formats for data storage are provided. Beyond these simple user stories, the Data Portal offers many additional features to generate semantic descriptions and knowledge graphs of your data, as well as to store them in RDF format in a Fuseki triple store. If you are interested in this, please feel free to contact us directly or utilize the offered web meetings (dates will be arranged). Good luck with using the PMD Data Portal.
+
+
+## About DataPortal
+
+Welcome to the MaterialDigital DataPortal - your one-stop-shop for uploading, managing and sharing material datasets! 
+
+In a world where FAIR data plays an increasingly important role, we offer you a user-friendly 'portal' where you can share and organize your data securely and efficiently. The MaterialDigital platform team has been working with the MaterialDigital community since 2019 to develop de facto standards. These can be used across domains in the area of semantic interoperability, workflows and IT architecture and infrastructure in materials science and tool technology. 
+
+We know that handling and sharing (large) amounts of data can be challenging. That's why we offer you our DataPortal: This builds on the intuitive interface of CKAN. It allows you to upload, categorize and manage your datasets with ease. Whether you are a researcher, a company or a data enthusiast, our platform is designed to meet your needs to find and use shared datasets.
+
+Our features include:
+
+- Easy data management: upload your datasets in different formats and manage them in one place.
+
+- Secure storage: Your data is safe with us. We use the latest security standards to protect your information
+
+- Flexible sharing: Share your data sets with colleagues or the public, according to your needs.
+
+- Analytical tools: Use our integrated tools to analyze your data and gain valuable insights.
+
+At MaterialDigital, we believe in the power of FAIR data and shared structures and approaches.
+
+Join our community and experience how easy and effective data management can be!
+
+Your PMD Team 
+
+Contact us here for more information, support and exchange.
+
+## Creating a User Account
+
+In order to use the user specific functinalities (e.g.  Data upload, creation of groups, ...) of the DataPartal you first need to create an account on the PMD Website.
+
+The direct link to the SingUp Page can be found at the [PMD Web page](https://www.material-digital.de/signup/). 
+
+There you will be guided through the sing up process and relevant data is inquired.
+
+The same credentials are then used when you want to sign into the [DataPortal](https://kit-pmd-4.ydns.eu/user/login). Use the button Sign in with SSO and the information for the PMD SSO are taken over as they are saved within the PMD SSO.
+
+ ![Login](./images/DataPotal_Login.png)
+
+## User Stories
+
+### User Story 1
+
+> As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
+
 #### Landing Page DataPortal
-If you enter the following address in your browser, you will be directed to the MaterialDigital DataPortal: [https://kit-pmd-4.ydns.eu/](https://kit-pmd-4.ydns.eu/)
+If you enter the following address in your browser, you will be directed to the PMD Data Portal: [https://dataportal-demo.material-digital.de/](https://dataportal-demo.material-digital.de/)
 
 The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
@@ -52,8 +109,8 @@ By clicking on the desired dataset in the main display area further information 
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
 ![US1_1](./images/DataPotal_US1_1.png)
 
-### US2:
-As a visiting user, I found some interisting datasets and i want to digest/consume them, for further analysis.
+### User Story 2:
+As a visiting user, I found some interesting datasets and I want to digest/consume them, for further analysis.
 
 In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
@@ -90,17 +147,13 @@ You will always find the URL, a short description of the record and the source c
 
 #### Functionalities of Buttons at the top of the explore page
 
-**Annotate:** The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed meaningful evaluations can be made. The emphasis in this case is on the enrichment with linguistic information.
-
-#### Functionalities of Buttons on Top
-
 **Annotate:**: : The process of assigning information to linguistic data (especially corpus data, with linguistic information) is called annotation. Only when this process has been completed can meaningful evaluations be made. The emphasis in this case is on the enrichment with linguistic information.
 
 **Transform:** Run Transformation, if allowed and not done before, by clicking here a Turlk file is created. This file lists all annotations to the dataset. You can use if for further semantic operations.
 
 **Download:** Provides a cleaned download of data. For some resource formats there is a dropdown menu embedded in the download button. Here you have the option to choose between different download format options.
 
-![US2_10](./images/DataPortal_US2_10.png)
+![US2_10](./images/DataPotal_US2_10.png)
 
 **Data API:** An API or Application Programming Interface is a messenger or a middleman that lets computer programs securely access data from one another.
 
@@ -131,7 +184,7 @@ Shown area 2 – **Additional Information**- also can be found on each Detail Pa
 If you do not need additional information about the different resources, there is also the possibility to download resources on the **Dataset Overview Page**.
 Right Clicking on Explore and selecting Download either directly starts the download or takes you to the respective data source.
 
-![US2_9](.images/DataPotal_US2_9.png)
+![US2_9](./images/DataPotal_US2_9.png)
 
 #### Create Mapping
  
