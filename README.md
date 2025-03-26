@@ -42,7 +42,7 @@ Contact us here for more information, support and exchange.
 
 In order to use the user specific functinalities (e.g.  Data upload, creation of groups, ...) of the DataPartal you first need to create an account on the PMD Website.
 
-The direct link to the SingUp Page can be found at the[PMD Web page](https://www.material-digital.de/signup/). 
+The direct link to the SingUp Page can be found at the [PMD Web page](https://www.material-digital.de/signup/). 
 
 There you will be guided through the sing up process and relevant data is inquired.
 
