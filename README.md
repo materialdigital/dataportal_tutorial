@@ -3,7 +3,7 @@
 
 **Creation Date:** 25-03-19
 
-**Last updated:** 2025-03-26 by JS
+**Last updated:** 2025-03-26 by MB
 
 **Contact:** Michael Luke (michael.luke@iwm.fraunhofer.de)
 
@@ -205,22 +205,64 @@ Right Clicking on Explore and selecting Download either directly starts the down
 If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
 ![US1_1](./images/DataPotal_US1_1.png)
 
-### User Story 3:
+### US3: Adding data
 
-> As a registered user, I want to add data to the central data portal and  point out the project, publisher that owns the data, to make my data findable and excessable by the public.
+> As a registered user, I want to add data to the data portal. I want to make the data accessible to the public and relate the associated project, owner and publisher to the data set to make the data findable and accessible while keeping a clean track of its provenance.
 
-- Registration at "material-digital.de"
-- Landing Page des DataPortals
-- Getting access to Organisation
-    - Admin User Story
-    - Member User Story
-- Uploading Files
-- Access Management
-    - privat/public
-    - for Organisation / for Project
-- Linking/citing the data
-- User Profile  
-    - how to reach own User Profile
-    - what can be seen and what can be managed there
-- membership to organizations
-    - can only be part of your organization, can't request to be member of other organizations due to privacy issues
+**Prerequisites:**
+You need a functional *material-digital Account* for logging in via the single-sign-on.
+Also, you need to be member with at least "Editor" privileges in at least one organization on the dataportal to add data sets.
+Please note, that you can provide a very detailed description of your data.
+Thus, we will only point to the most important categories of information in this guide.  
+
+You can start the process of adding data from two places: either, you click on "Datasets" on the top left. Then, above the search bar you find the "Add dataset" button:
+![US3_1](./images/DataPortal_us3_1.png)
+
+The other way here is to click on "organizations" (right beside "Datasets"), select the organization for which you want to add a dataset ( and where you have at least "Editor" privileges).
+Then, under "Datasets you fond again the "Add dataset" button.
+![US3_2](./images/DataPortal_us3_2.png)
+
+After clicking on the button, you are facing a form, where you may fill in various information regarding your data set.
+Note that mandatory information is marked with a red star.
+The associated field must be filled for successfully uploading your data.
+In the following we will only cover a few important options offered here.
+
+#### General information
+A title, a description and some keywords for your data set.
+**The keywords will be associated with tags under which you can find the data set!**.
+You will be provided with suggestions while typing.
+In case there is no matching existing tag, a new one will be created for you.
+![US3_3](./images/DataPortal_us3_3.png)
+
+#### Correspondence
+Information regarding contact information, like an URI, mail address etc. for a contact person. You may add additional field when necessary.
+![US3_4](./images/DataPortal_us3_4.png)
+You can also add a *Publisher* and the *Creator* of the data set by filling similar fields.
+![US3_5](./images/DataPortal_us3_5.png)
+![US3_6](./images/DataPortal_us3_6.png)
+
+#### Miscellaneous information
+Among the following fields, especially the **license**, the **organization** and the **visibility** are particularly important.
+The organization is mandatory and a data set cannot be added without filling this field.
+The visibility lets you control whether the data set is publicly visible to anyone on the internet ("Public") or only to registered users of the dataportal ("Private")
+![US3_7](./images/DataPortal_us3_7.png)
+
+##### Release and version information
+Of course you can also add a release date, modification date, a version number (including further version notes), a release frequency and more information on the data set's provenance.
+![US3_8](./images/DataPortal_us3_8.png)
+
+### Adding the data and associated files
+Now you will be guided through the process of adding all files associated with your data set.
+![US3_9](./images/DataPortal_us3_9.png)
+You can either add single files and provide a detailed description on their contents.
+You can add a wide variety of information such as a name for the file, its mime-type, size, license, URL to only resources, creation date etc.
+You can provide files via upload from your local drive or by providing a link to an online resource.
+You can also provide tabular data by using the "Table Designer".
+Fields that are not filled by hand may be filled with auto-generated, default values.
+After providing the information for a file, you are offered the option to add further files and provide their details.
+![US3_10](./images/DataPortal_us3_10.png)
+You can also select the "Multi Upload" option and add files via drag-and-drop.
+![US3_11](./images/DataPortal_us3_11.png)
+In the end you can click on "finish".
+The upload is complete and you are confronted with the overview-page of your data set.
+![US3_12](./images/DataPortal_us3_12.png)

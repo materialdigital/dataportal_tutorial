@@ -209,3 +209,24 @@ List out the product backlog items for the software product. Each product backlo
 Prio 1: Schulungmaterial für die aktuelle Version des Datenportals erstellen.
 Prio 2: Verbessetungvorschläge für die Benutzerfreundlichkeit aufschreiben. Anpssung **nur** nach Freigabe vom LK und Allokation von zusätzlichen Kapa.
 
+---
+
+## Verschiedenes
+### Liste aus dem README
+Ganz unten im README aren nochfolegende Punkte, die ich hier ablege zu sicherungszwecken:
+
+- Registration at "material-digital.de"
+- Landing Page des DataPortals
+- Getting access to Organisation
+    - Admin User Story
+    - Member User Story
+- Uploading Files
+- Access Management
+    - privat/public
+    - for Organisation / for Project
+- Linking/citing the data
+- User Profile  
+    - how to reach own User Profile
+    - what can be seen and what can be managed there
+- membership to organizations
+    - can only be part of your organization, can't request to be member of other organizations due to privacy issues
