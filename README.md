@@ -3,7 +3,7 @@
 
 **Creation Date:** 25-03-19
 
-**Last updated:** 2025-03-26 by MB
+**Last updated:** 2025-04-03 by JS
 
 **Contact:** Michael Luke (michael.luke@iwm.fraunhofer.de)
 
@@ -219,23 +219,23 @@ You can start the process of adding data from two places: either, you click on "
 ![US3_1](./images/DataPortal_us3_1.png)
 
 The other way here is to click on "organizations" (right beside "Datasets"), select the organization for which you want to add a dataset ( and where you have at least "Editor" privileges).
-Then, under "Datasets you fond again the "Add dataset" button.
+Then, under "Datasets you find again the "Add dataset" button.
 ![US3_2](./images/DataPortal_us3_2.png)
 
-After clicking on the button, you are facing a form, where you may fill in various information regarding your data set.
+After clicking on the button, you are presented with a form, in which you may fill in various information regarding your data set.
 Note that mandatory information is marked with a red star.
-The associated field must be filled for successfully uploading your data.
+The associated fields must be filled for successfully uploading your data.
 In the following we will only cover a few important options offered here.
 
 #### General information
-A title, a description and some keywords for your data set.
-**The keywords will be associated with tags under which you can find the data set!**.
+A title, keywords and a description of the datset need to be entered at this point.
+**The keywords enetere here will be associated with tags under which you can find the data set!**.
 You will be provided with suggestions while typing.
 In case there is no matching existing tag, a new one will be created for you.
 ![US3_3](./images/DataPortal_us3_3.png)
 
 #### Correspondence
-Information regarding contact information, like an URI, mail address etc. for a contact person. You may add additional field when necessary.
+In this section information regarding contact information, like an URI, mail address etc. for a contact person is entered. You may add additional fields if necessary.
 ![US3_4](./images/DataPortal_us3_4.png)
 You can also add a *Publisher* and the *Creator* of the data set by filling similar fields.
 ![US3_5](./images/DataPortal_us3_5.png)
@@ -244,7 +244,7 @@ You can also add a *Publisher* and the *Creator* of the data set by filling simi
 #### Miscellaneous information
 Among the following fields, especially the **license**, the **organization** and the **visibility** are particularly important.
 The organization is mandatory and a data set cannot be added without filling this field.
-The visibility lets you control whether the data set is publicly visible to anyone on the internet ("Public") or only to registered users of the dataportal ("Private")
+The visibility lets you control whether the data set is publicly visible to anyone on the internet ("Public") or only to registered users of the dataportal ("Private").
 ![US3_7](./images/DataPortal_us3_7.png)
 
 ##### Release and version information
@@ -254,15 +254,19 @@ Of course you can also add a release date, modification date, a version number (
 ### Adding the data and associated files
 Now you will be guided through the process of adding all files associated with your data set.
 ![US3_9](./images/DataPortal_us3_9.png)
-You can either add single files and provide a detailed description on their contents.
-You can add a wide variety of information such as a name for the file, its mime-type, size, license, URL to only resources, creation date etc.
-You can provide files via upload from your local drive or by providing a link to an online resource.
-You can also provide tabular data by using the "Table Designer".
-Fields that are not filled by hand may be filled with auto-generated, default values.
+
+During the upload process you are presention with different options to choose from: 
+- add single files and provide a detailed description on their contents.
+- add a wide variety of information such as a name for the file, its mime-type, size, license, URL to only resources, creation date etc.
+- provide files via upload from your local drive or by providing a link to an online resource.
+- provide tabular data by using the "Table Designer".
+
+Fields that are not filled manually may be filled with auto-generated, default values.
 After providing the information for a file, you are offered the option to add further files and provide their details.
 ![US3_10](./images/DataPortal_us3_10.png)
 You can also select the "Multi Upload" option and add files via drag-and-drop.
 ![US3_11](./images/DataPortal_us3_11.png)
-In the end you can click on "finish".
-The upload is complete and you are confronted with the overview-page of your data set.
+
+The process is completed by clicking on "finish".
+After the upload is concluded the overview-page of your data set displayed.
 ![US3_12](./images/DataPortal_us3_12.png)
